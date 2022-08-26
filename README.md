@@ -9,7 +9,6 @@ I am Preyas Mishra, a recent computer science graduate from [Savitribai Phule Pu
 
 ## ⚡ Technologies
 
-
 ![Java](https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Spring](https://img.shields.io/badge/-Spring-green?style=flat-square&logo=spring)
@@ -26,5 +25,16 @@ I am Preyas Mishra, a recent computer science graduate from [Savitribai Phule Pu
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+### 😄 Pronouns
+He/Him
+
+### 🌱 What do I do and What have I done? 
+
+- Currently a Fresher graduated in 2022
+- Worked on various projects from Full Stack Development to Deep Learning  
+- Ex Core Team Member(Technical Lead) at Google Developer Student Club, GESCOE 
+- Completed 3 months internship with Capgemini (JEE Full Stack 2.0 with Angular)
+- Always eager to learn 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=preyas-mishra&hide=TeX&layout=compact)

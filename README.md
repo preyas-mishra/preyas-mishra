@@ -4,7 +4,7 @@ I am Preyas Mishra, a recent computer science graduate from [Savitribai Phule Pu
 
 [![Linkedin Badge](https://img.shields.io/badge/-preyasmishra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/preyas-mishra-544b09175/)](https://www.linkedin.com/in/preyas-mishra-544b09175/)
 [![Instagram Badge](https://img.shields.io/badge/-preyas_mishra_xvii-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/preyas_mishra_xvii/)](https://www.instagram.com/preyas_mishra_xvii/)
-[![Gmail Badge](https://img.shields.io/badge/-preyasmishra@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:preyasmishra@gmail.com)](mailto:kanna6501@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-preyasmishra@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:preyasmishra@gmail.com)](mailto:preyasmishra@gmail.com)
 [![Fiverr Badge](https://img.shields.io/badge/-preyasmishra-green?style=flat-square&logo=Fiverr&logoColor=white&link=https://www.fiverr.com/preyas_mishra/do-projects-on-angular-spring-java-mysql)](https://www.fiverr.com/preyas_mishra/do-projects-on-angular-spring-java-mysql)
 
 ## ⚡ Technologies
